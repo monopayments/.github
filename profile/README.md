@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+MonoPayments is an all in one whitelabel digital fintech platform suited for electronic money and payment institutions, holdings, startups and neobanks. Modular and scalable IT solutions to the banking & financial, governmental and retail sector. We simplified the process with our innovative platform. Services like digital wallets, internet payment gateways (IPG), KYC, KYB and neobanking are highly sought after by retail, small and medium enterprises (SME).
